@@ -12,19 +12,25 @@
     font-family: 'LIB-P' !important;
 }
 
-tw-link {color:#ff3300;}
+tw-link {color: Yellow;}
 
 html {
 	background-color: #FFFFFF;
 }
 
 html.Rossa tw-story {
-	background-color: Beige;
+	background-color: Red;
 }
 
 html.Blu tw-story {
-	background-color: LightGreen;
+	background-color: Blue;
 }
+
+html.Marrone tw-story {
+	background-color: Brown;
+}
+
+
 
 
 
