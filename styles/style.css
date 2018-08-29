@@ -1,7 +1,12 @@
 @font-face {
     font-family: 'LIB-P';
-    src: LIBERTA-piena.otf";
+    src: url("https://cdn.rawgit.com/kostasprint/twinetest/094b0e32/styles/LIBERTA-piena.otf");
     }
+
+@font-face {
+    font-family: 'LIB-P';
+    src: url("/styles/LIBERTA-piena.otf");
+}
 
 * {
     font-family: 'LIB-P' !important;
@@ -20,6 +25,8 @@ html.Rossa tw-story {
 html.Blu tw-story {
 	background-color: LightGreen;
 }
+
+
 
 
 
