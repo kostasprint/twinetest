@@ -11,8 +11,35 @@
 
 <tw-story></tw-story>
 
-<tw-storydata name="test" startnode="1" creator="Twine" creator-version="2.2.1" ifid="B8044A7C-C9AB-4685-A44F-E65429DA4C85" zoom="0.6" format="Harlowe" format-version="2.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+<tw-storydata name="test" startnode="1" creator="Twine" creator-version="2.2.1" ifid="B8044A7C-C9AB-4685-A44F-E65429DA4C85" zoom="0.6" format="Harlowe" format-version="2.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">@font-face {
+    font-family: 'LIB-P';
+    src: url("http://ff3300.com/demo_ode/assets/fonts/LIBERTA-piena.otf");
+    }
+
+* {
+    font-family: 'LIB-P' !important;
+}
+
+tw-link {color:#ff3300;}
+
+html {
+	background-color: #FFFFFF;
+}
+
+html.Rossa tw-story {
+	background-color: Beige;
+}
+
+html.Blu tw-story {
+	background-color: LightGreen;
+}
+
+
+
+
 </style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+
 
 
 </script><tw-passagedata pid="1" name="Untitled Passage" tags="" position="1300,700" size="100,100">
@@ -27,17 +54,14 @@ C&#39;è un [tavolo]&lt;cl1|.
 
 (click: ?cl1) [Un tavolo?? Qui non c&#39;è **niente**]
 
-[[Porta Marrone]]
-</tw-passagedata><tw-passagedata pid="3" name="Blu" tags="" position="1400,901" size="100,100">Sei davanti alla porta Blu
+[[Porta Marrone]]</tw-passagedata><tw-passagedata pid="3" name="Blu" tags="" position="1400,901" size="100,100">(background: &quot;#663399&quot;)[Sei davanti alla porta Blu
 
 &lt;img src=&quot;http://wemake.cc/core/uploads/2015/10/180x180px.jpg&quot; width=&quot;180&quot; alt=&quot;Two foxes&quot;&gt;
 
 ahahah
+]
 
-
-</tw-passagedata><tw-passagedata pid="4" name="Porta Marrone" tags="" position="1198,1050" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="5" name="classPassage" tags="header" position="1700,701" size="100,100">&lt;link rel=&quot;stylesheet&quot; href=&quot;docs/styles/style.css&quot; type=&quot;text/css&quot;&gt;
-
-{
+</tw-passagedata><tw-passagedata pid="4" name="Porta Marrone" tags="" position="1198,1050" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="5" name="classPassage" tags="header" position="1700,701" size="100,100">{
 (print: &quot;&lt;script&gt;$(&#39;html&#39;).removeClass(\)&lt;/script&gt;&quot;)
 (print: &quot;&lt;script&gt;$(&#39;html&#39;).addClass(&#39;&quot; + (passage:)&#39;s name + &quot;&#39;\)&lt;/script&gt;&quot;)
 }</tw-passagedata></tw-storydata>
