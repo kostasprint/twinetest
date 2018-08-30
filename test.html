@@ -12,6 +12,20 @@
     font-family: 'LIB-P' !important;
 }
 
+tw-sidebar tw-icon.redo {
+	display: none;
+}
+tw-sidebar tw-icon.undo {
+	display: none;
+}
+
+tw-story {
+  padding: 5%;
+}
+
+tw-passage {
+  position: relative;
+}
 tw-link {color: Yellow;}
 
 html {
@@ -77,19 +91,20 @@ html, body {
     width:100%;
     position:fixed;
     bottom:0;
+  	left:0;
     z-index:9999;
     background-color: black;
 
 }
 
-a.answer {
+span.answer tw-link {
     padding: 1em;
     text-align: center;
     vertical-align: bottom;
     transition: all .3s;
     cursor: pointer;
 }
-a.answer:hover{
+span.answer tw-link.hover{
     color:red;
     transition: all .3s;
 }
@@ -100,13 +115,14 @@ a.answer:hover{
     text-align: center;
     position:fixed;
     top:0;
+  	left:0;
     margin: 0;
     width:90%;
     padding:5%;
     background-color: black;
 }
 
-.answer {
+.answer tw-link{
     font-size:2vw;
     color: white;
 }
@@ -124,7 +140,7 @@ a.answer:hover{
         padding:5%;
         display: block;
     }
-    a.answer {
+    a.answer tw-link{
         width:90%;
         padding:5%;
         display: block;
@@ -145,7 +161,9 @@ a.answer:hover{
 
 
 
-</style><script role="script" id="twine-user-script" type="text/twine-javascript">console.log ("ciaone");</script><tw-passagedata pid="1" name="Untitled Passage" tags="" position="1201,700" size="100,100">
+
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">console.log ("ciaone");
+</script><tw-passagedata pid="1" name="Untitled Passage" tags="" position="1201,700" size="100,100">
 
 C&#39;erano una &lt;strong&gt;volta&lt;/strong&gt; due **porte**
 
@@ -171,16 +189,19 @@ ahahah
 ]
 
 
-</tw-passagedata><tw-passagedata pid="4" name="Porta Marrone" tags="" position="1198,1050" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="5" name="classPassage" tags="header" position="1700,701" size="100,100">{
+</tw-passagedata><tw-passagedata pid="4" name="Porta Marrone" tags="" position="806,1006" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="5" name="classPassage" tags="header" position="1700,701" size="100,100">{
 (print: &quot;&lt;script&gt;$(&#39;html&#39;).removeClass(\)&lt;/script&gt;&quot;)
 (print: &quot;&lt;script&gt;$(&#39;html&#39;).addClass(&#39;&quot; + (passage:)&#39;s name + &quot;&#39;\)&lt;/script&gt;&quot;)
-}</tw-passagedata><tw-passagedata pid="6" name="birretta" tags="" position="1201,850" size="100,100">#birretta?
-
-ognuno paga per se
-en po na krasi
-non bevo birra 
-facciamo una colletta</tw-passagedata><tw-passagedata pid="7" name="script del footer" tags="footer" position="1905.0000000000002,702.5" size="100,100">&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js&quot; integrity=&quot;sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+}</tw-passagedata><tw-passagedata pid="6" name="birretta" tags="" position="1199.3333333333333,894.3333333333334" size="100,100">&lt;div class=&quot;container&quot;&gt;
+&lt;h2 class=&quot;title&quot;&gt;Compare la bestia&lt;/title&gt;
+&lt;div class=&quot;img0&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;flex&quot;&gt;
+	&lt;span id=&quot;a1&quot; class=&quot;answer&quot;&gt;[[la abbraccio]]&lt;/span&gt;
+	&lt;span id=&quot;a2&quot; class=&quot;answer&quot;&gt;[[la addomestico]]&lt;/span&gt;
+	&lt;span id=&quot;a3&quot; class=&quot;answer&quot;&gt;[[meme war]]&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;</tw-passagedata><tw-passagedata pid="7" name="script del footer" tags="footer" position="1905,702" size="100,100">&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js&quot; integrity=&quot;sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
 
 &lt;script src=&quot;https://code.jquery.com/jquery-1.10.2.js&quot;&gt;&lt;/script&gt;
 
-&lt;script src=&quot;https://rawgit.com/kostasprint/twinetest/master/script/game.js&quot;&gt;&lt;/script&gt;</tw-passagedata></tw-storydata>
+&lt;script src=&quot;https://rawgit.com/kostasprint/twinetest/master/script/game.js&quot;&gt;&lt;/script&gt;</tw-passagedata><tw-passagedata pid="8" name="la abbraccio" tags="" position="1051,1046" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="9" name="la addomestico" tags="" position="1201,1026" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="10" name="meme war" tags="" position="1351,1046" size="100,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
