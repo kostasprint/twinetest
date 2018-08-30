@@ -43,6 +43,111 @@ html.Marrone tw-story {
 	background-color: Brown;
 }
 
+body {
+    background-color: black;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#bg {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:auto;
+    height:50%;
+    margin-top:30vh;
+}
+.img0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta0.jpg");
+}
+
+.img1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta1.jpg");
+}
+
+.img2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta2.jpg");
+}
+
+.img3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta3.jpg");
+}
+
+
+
+* {
+    font-family: 'LIB-P';
+    transition:all .3s;
+}
+.flex {
+    display:flex;
+    text-align:center;
+    padding: 1em;
+    justify-content: space-between;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    z-index:9999;
+    background-color: black;
+
+}
+
+a.answer {
+    padding: 1em;
+    text-align: center;
+    vertical-align: bottom;
+    transition: all .3s;
+    cursor: pointer;
+}
+a.answer:hover{
+    color:red;
+    transition: all .3s;
+}
+.title {
+    line-height:1.5em;
+    font-size:3em;
+    color: white;
+    text-align: center;
+    position:fixed;
+    top:0;
+    margin: 0;
+    width:90%;
+    padding:5%;
+    background-color: black;
+}
+
+.answer {
+    font-size:2vw;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .title{
+        width:90%;
+        padding:5%
+    }
+    #bg{
+        margin:10vh;
+    }
+    .flex {
+        width:90%;
+        padding:5%;
+        display: block;
+    }
+    a.answer {
+        width:90%;
+        padding:5%;
+        display: block;
+    }
+    * {
+        font-size: 1em!important;
+    }
+}
+
+
 
 
 
