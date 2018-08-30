@@ -1,3 +1,7 @@
+questo è il contenuto del passage
+
+
+
 <div class="container">
 <h2 class="title">Compare la bestia</h2>
 <div class="img0" id="bg"></div>
