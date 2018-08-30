@@ -1,14 +1,24 @@
-$("#a1").hover(
+$("#1").hover(
 function() {
     $("#bg").toggleClass('img1');
 });
 
-$("#a2").hover(
+$("#2").hover(
     function() {
         $("#bg").toggleClass('img2');
     });
 
-$("#a3").hover(
+$("#3").hover(
     function() {
         $("#bg").toggleClass('img3');
+    });
+
+$("#4").hover(
+    function() {
+        $("#bg").toggleClass('img4');
+    });
+
+$("#5").hover(
+    function() {
+        $("#bg").toggleClass('img5');
     });
