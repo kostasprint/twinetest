@@ -1,0 +1,8 @@
+questo è il contenuto del passage speciale classPassage
+
+taggato come header
+
+{
+(print: "<script>$('html').removeClass(\)</script>")
+(print: "<script>$('html').addClass('" + (passage:)'s name + "'\)</script>")
+}

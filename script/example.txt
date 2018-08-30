@@ -1,0 +1,9 @@
+<div class="container">
+<h2 class="title">Compare la bestia</h2>
+<div class="img0" id="bg"></div>
+<div class="flex">
+	<span id="a1" class="answer">[[la abbraccio]]</span>
+	<span id="a2" class="answer">[[la addomestico]]</span>
+	<span id="a3" class="answer">[[meme war]]</span>
+</div>
+</div>
