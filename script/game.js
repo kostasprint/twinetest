@@ -1,7 +1,5 @@
 function init_img_subs (alist, target) {
- for (el of alist) {
-   console.log (el);
-   console.log ("ciaone");
+ for (var el of alist) {
   $(el[0]).hover (
    function () {
     $(target).toggleClass(el[1]);
