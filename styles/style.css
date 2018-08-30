@@ -70,24 +70,6 @@ html, body {
   	left: 0;
 }
 
-.img0 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta0.jpg");
-}
-
-.img1 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta1.jpg");
-}
-
-.img2 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta2.jpg");
-}
-
-.img3 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta3.jpg");
-}
-
-
-
 * {
     font-family: 'LIB-P';
     transition:all .3s;
@@ -156,4 +138,323 @@ span.answer tw-link:hover{
     * {
         font-size: 1em!important;
     }
+}
+
+.bestia0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/bestia0.jpg");
+}
+
+.bestia1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/bestia1.jpg");
+}
+
+.bestia2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/bestia2.jpg");
+}
+
+.bestia3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/bestia3.jpg");
+}
+
+
+.birretta0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta0.jpg");
+}
+
+.birretta1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta1.jpg");
+}
+
+.birretta2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta2.png");
+}
+
+.birretta3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta3.jpg");
+}
+
+.birretta4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/birretta4.jpg");
+}
+
+
+.economia0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/economia0.jpg");
+}
+
+.economia1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/economia1.jpg");
+}
+
+.economia2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/economia2.jpg");
+}
+
+.economia3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/economia3.jpg");
+}
+
+
+.facebook0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/facebook0.jpg");
+}
+
+.facebook1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/facebook1.jpg");
+}
+
+.facebook2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/facebook2.jpg");
+}
+
+.facebook3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/facebook3.jpg");
+}
+
+
+.finance0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/finance0.jpg");
+}
+
+.finance1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/finance1.jpg");
+}
+
+.finance2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/finance2.jpg");
+}
+
+.finance3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/finance3.jpg");
+}
+
+
+.fuckpatriarchy0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/fuckpatriarchy0.gif");
+}
+
+.fuckpatriarchy1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/fuckpatriarchy1.jpg");
+}
+
+.fuckpatriarchy2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/fuckpatriarchy2.jpg");
+}
+
+.fuckpatriarchy3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/fuckpatriarchy3.jpg");
+}
+
+
+.idee0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/idee0.gif");
+}
+
+.idee1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/idee1.jpg");
+}
+
+.idee2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/idee2.png");
+}
+
+
+.lavoro0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/lavoro0.gif");
+}
+
+.lavoro1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/Lavoro1.jpg");
+}
+
+.lavoro2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/lavoro2.jpg");
+}
+
+.lavoro3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/lavoro3.jpg");
+}
+
+
+.marte0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/marte0.jpg");
+}
+
+.marte1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/marte1.jpg");
+}
+
+.marte2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/marte2.jpg");
+}
+
+.marte3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/marte3.png");
+}
+
+
+.nascondino0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nascondino0.jpg");
+}
+
+.nascondino1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nascondino1.jpg");
+}
+
+.nascondino2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nascondino2.png");
+}
+
+.nascondino3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nascondino3.png");
+}
+
+
+.natura0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/natura0.jpg");
+}
+.natura1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/natura1.jpeg");
+}
+
+.natura2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/natura2.png");
+}
+
+.natura3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/natura3.jpg");
+}
+
+.natura4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/natura4.jpg");
+}
+
+
+
+.nosoldi0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nosoldi0.jpg");
+}
+.nosoldi1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nosoldi1.jpg");
+}
+
+.nosoldi2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nosoldi2.jpg");
+}
+
+.nosoldi3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nosoldi3.gif");
+}
+
+
+.perchelavori0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/perchelavori0.jpg");
+}
+.perchelavori1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/perchelavori1.jpg");
+}
+
+.perchelavori2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/perchelavori2.jpg");
+}
+
+.perchelavori3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/perchelavori3.jpg");
+}
+
+
+.possiedi0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi0.png");
+}
+.possiedi1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi1.jpg");
+}
+
+.possiedi2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi2.gif");
+}
+
+.possiedi3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi3.jpg");
+}
+
+.possiedi4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi4.jpg");
+}
+
+
+.rivoluzione0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzione0.jpg");
+}
+.rivoluzione1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzione1.jpg");
+}
+
+.rivoluzione2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzione2.jpg");
+}
+
+.rivoluzione3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzione3.jpg");
+}
+
+
+
+.selfcare0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/selfcare0.jpg");
+}
+
+.selfcare1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/selfcare1.jpg");
+}
+
+.selfcare2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/selfcare2.jpg");
+}
+
+
+
+.spiato0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/spiato0.png");
+}
+
+.spiato1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/spiato1.jpg");
+}
+
+.spiato2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/spiato2.png");
+}
+
+.spiato3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/spiato3.jpg");
+}
+
+.spiato4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/spiato4.png");
+}
+
+.spiato5 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/spiato5.png");
+}
+
+
+.wifi0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/wifi0.jpg");
+}
+
+.wifi1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/wifi1.jpg");
+}
+
+.wifi2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/wifi2.jpg");
+}
+
+.wifi3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/wifi3.jpg");
+}
+
+.wifi4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/wifi4.jpg");
 }
