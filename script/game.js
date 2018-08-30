@@ -6,3 +6,5 @@ function init_img_subs (alist, target) {
    });
  }
 }
+
+init_img_subs (image,"#bg");
