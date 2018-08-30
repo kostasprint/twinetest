@@ -429,6 +429,30 @@ span.answer tw-link:hover{
 }
 
 
+
+.media0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media0.jpg");
+}
+.media1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media1.jpeg");
+}
+
+.media2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media2.png");
+}
+
+.media3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media3.jpg");
+}
+
+.media4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media4.jpg");
+}
+
+
+
+
+
 .nascondino0 {
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nascondino0.jpg");
 }
