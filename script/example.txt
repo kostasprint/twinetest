@@ -1,13 +1,20 @@
 questo è il contenuto del passage
+immagine è il nome del passage
 
+--
 
 
 <div class="container">
-<h2 class="title">Compare la bestia</h2>
-<div class="img0" id="bg"></div>
+<h2 class="title">TITOLO</h2>
+<div class="immagine0" id="bg"></div>
 <div class="flex">
-	<span id="a1" class="answer">[[la abbraccio]]</span>
-	<span id="a2" class="answer">[[la addomestico]]</span>
-	<span id="a3" class="answer">[[meme war]]</span>
+	<span id="a1" class="answer">[[risposta]]</span>
+	<span id="a2" class="answer">[[risposta]]</span>
+	<span id="a3" class="answer">[[risposta]]</span>
 </div>
 </div>
+
+<script>
+          var  image = [["#a1", "immagine1"], ["#a2", "immagine"], ["#a3", "immagine"]];
+          init_img_subs (image, "#bg");
+</script>
