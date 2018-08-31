@@ -171,7 +171,7 @@ span.answer tw-link:hover{
 }
 
 .accettocondizioni2 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/accettocondizioni2.png");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/accettocondizioni2.jpg");
 }
 
 .accettocondizioni3 {
@@ -193,7 +193,7 @@ span.answer tw-link:hover{
 }
 
 .algoritmo2 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/algoritmo2.png");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/algoritmo2.jpg");
 }
 
 .algoritmo3 {
@@ -252,7 +252,7 @@ span.answer tw-link:hover{
 }
 
 .cosafare2 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/cosafare2.png");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/cosafare2.jpg");
 }
 
 .cosafare3 {
@@ -434,7 +434,7 @@ span.answer tw-link:hover{
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media0.jpg");
 }
 .media1 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media1.jpeg");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media1.jpg");
 }
 
 .media2 {
@@ -449,6 +449,22 @@ span.answer tw-link:hover{
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/media4.jpg");
 }
 
+
+
+.mementomori0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/mementomori0.jpg");
+}
+.mementomori1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/mementomori1.jpg");
+}
+
+.mementomori2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/mementomori2.jpg");
+}
+
+.mementomori3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/mementomori3.jpg");
+}
 
 
 
@@ -503,8 +519,27 @@ span.answer tw-link:hover{
 }
 
 .nosoldi3 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nosoldi3.gif");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/nosoldi3.jpg");
 }
+
+
+
+.offshore0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/offshore0.jpg");
+}
+.offshore1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/offshore1.jpg");
+}
+
+.offshore2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/offshore2.jpg");
+}
+
+.offshore3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/offshore3.jpg");
+}
+
+
 
 
 .perchelavori0 {
@@ -524,14 +559,14 @@ span.answer tw-link:hover{
 
 
 .possiedi0 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi0.png");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi0.jpg");
 }
 .possiedi1 {
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi1.jpg");
 }
 
 .possiedi2 {
-    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi2.gif");
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi2.jpg");
 }
 
 .possiedi3 {
@@ -541,6 +576,57 @@ span.answer tw-link:hover{
 .possiedi4 {
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/possiedi4.jpg");
 }
+
+
+
+.posti0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/posti0.jpg");
+}
+.posti1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/posti1.jpg");
+}
+
+.posti2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/posti2.jpg");
+}
+
+.posti3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/posti3.jpg");
+}
+
+
+
+
+.progettoinmente0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente0.jpg");
+}
+
+.progettoinmente1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente1.jpg");
+}
+
+.progettoinmente2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente2.jpg");
+}
+
+.progettoinmente3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente3.jpg");
+}
+
+.progettoinmente4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente4.jpg");
+}
+
+.progettoinmente5 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente5.jpg");
+}
+
+.progettoinmente6 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/progettoinmente6.JPG");
+}
+
+
+
 
 
 .rivoluzione0 {
@@ -557,6 +643,30 @@ span.answer tw-link:hover{
 .rivoluzione3 {
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzione3.jpg");
 }
+
+
+
+.rivoluzionespazzatura0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzionespazzatura0.jpg");
+}
+
+.rivoluzionespazzatura1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzionespazzatura1.jpg");
+}
+
+.rivoluzionespazzatura2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzionespazzatura2.jpg");
+}
+
+.rivoluzionespazzatura3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzionespazzatura3.jpg");
+}
+
+.rivoluzionespazzatura4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/rivoluzionespazzatura4.jpg");
+}
+
+
 
 
 
@@ -601,6 +711,34 @@ span.answer tw-link:hover{
 .selfcare2 {
     background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/selfcare2.jpg");
 }
+
+
+
+.sogni0 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/sogni0.png");
+}
+
+.sogni1 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/sogni1.jpg");
+}
+
+.sogni2 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/sogni2.png");
+}
+
+.sogni3 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/sogni3.jpg");
+}
+
+.sogni4 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/sogni4.png");
+}
+
+.sogni5 {
+    background-image: url("https://rawgit.com/kostasprint/twinetest/master/asset/sogni5.png");
+}
+
+
 
 
 
